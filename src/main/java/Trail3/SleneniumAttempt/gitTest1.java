@@ -16,6 +16,8 @@ public class gitTest1 {
 
      public static void printMe1() {
     	 System.out.println("Test");
+    	 System.out.println("Test2");
+    	 System.out.println("Test3");
      }
      
      public static void printMe2() {
